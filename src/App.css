@@ -1,10 +1,18 @@
 .App {
   text-align: center;
+  background-color: #333;
 }
+body{
+  background-color: #333;
 
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+.answer{
+  font-size: 1.25rem;
+  font-weight: bold;
 }
 
 @media (prefers-reduced-motion: no-preference) {
